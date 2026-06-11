@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env.local
+.env*.local
+.borgo-data/
+.DS_Store
+.claude/settings.local.json
